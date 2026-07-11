@@ -4,7 +4,9 @@
 [Tested & Printed]
 <br><br>
 Auto Nesting Tested*
+<br><br>
 Resizing Tested*
+<br><br>
 Rotating images Tested*
 
 <br><br>
