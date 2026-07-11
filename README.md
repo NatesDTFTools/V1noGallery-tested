@@ -1,4 +1,5 @@
-# -1
+V1.00 Fully working as of 7/10/2026
+<br><br>
 7/10/2026
 <br><br>
 [Tested & Printed]
