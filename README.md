@@ -3,6 +3,8 @@
 <br><br>
 [Tested & Printed]
 <br><br>
+White Spot .TIFF Tested*
+<br><br>
 Auto Nesting Tested*
 <br><br>
 Resizing Tested*
